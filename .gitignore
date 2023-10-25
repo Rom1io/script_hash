@@ -1,0 +1,13 @@
+# Ignorer les fichiers de sortie générés par Node.js
+node_modules/
+npm-debug.log
+
+# Ignorer le répertoire de destination des fichiers créés par le script
+/content/
+
+# Ignorer les fichiers de sortie générés par les éditeurs de code
+.vscode/
+.idea/
+
+# Ignorer les fichiers de configuration locaux
+.env
